@@ -1,0 +1,39 @@
+MATLAB Marina Mobile Website Vision Document
+Author: Peter Drinovac
+Date: September 1, 2015
+
+
+Introduction
+
+The Armstrong MATLAB Marina website serves as an online location for students to find information on MATLAB software. It is meant to introduce programming concepts for engineering students, ranging between beginner level and high level concepts.
+
+
+Business Needs/Requirements
+
+The Armstrong MATLAB Marina website is great for students currently on their desktops, but it is hard to navigate on smartphones and tablets. The use of mobile devices increases more and more every year, prompting a desire for more mobile websites to be produced.
+
+Therefore, a new mobile site would easily be able to please any student using the website. If students need their information between classes and don't have time to find a computer, their phone should be able to give them the information they need.
+
+
+Product/Solution Overview
+
+The Armstrong MATLAB Marina mobile website will be able to provide students with the content of the mother website with a touch of their fingers. In a more efficient and better designed website, students will be able to find the information they need with ease.
+
+The product is being designed for the students that use their phone more than a laptop and students that need information on the go. The PDF resources from the mother website are to be converted to HTML for easy access in a mobile broswer, therefore eliminating the need for an app or the need to download anything.
+
+A full website makeover is planned to be added in the next version of the mobile website. This new desktop website would be directly linked to the mobile website, being that the CSS of the page will be different based on the size of the screen. With this implementation, another version can be made to be compatible with the rise in popularity of the tablet.
+
+
+Scope & Limitations
+
+The initial version of the mobile site will mainly focus on being able to provide students with easy access to the information on the website. The mobile site is not meant to have any new content, besides what is in the PDF files in HTML instead. A replacement of the main website will only occur if the mobile site is completed in extrodinary time.
+
+
+Accessibility
+
+The mobile site is meant to be compatiable with all mobile devices and any browser. Javascript will be kept to a minimum to avoid conflicts between browsers.
+
+
+Backend
+
+Very little work will be done in the backend of the website besides the basic construction of the website.
