@@ -5,35 +5,27 @@ Date: September 1, 2015
 
 Introduction
 
-The Armstrong MATLAB Marina website serves as an online location for students to find information on MATLAB software. It is meant to introduce programming concepts for engineering students, ranging between beginner level and high level concepts.
+The Armstrong MATLAB Marina website serves as an online resource for students taking Engineering courses that require the use of MATLAB programming language and associated software. It introduces basic to advanced programming concepts for engineering students, offering video tutorials, example programs, and exercises. The Marina Mobile Redesign Project aims to improve the experience of students accessing Marina on a handheld mobile device (smartphone or tablet).
 
 
 Business Needs/Requirements
 
-The Armstrong MATLAB Marina website is great for students currently on their desktops, but it is hard to navigate on smartphones and tablets. The use of mobile devices increases more and more every year, prompting a desire for more mobile websites to be produced.
-
-Therefore, a new mobile site would easily be able to please any student using the website. If students need their information between classes and don't have time to find a computer, their phone should be able to give them the information they need.
+The current MATLAB Marina website is difficult to navigate on smartphones and tablets, as it was designed without these different media in mind. The use of handheld mobile devices to access online content has eclipsed the use of large-screened devices like laptops and desktop computers, prompting the need for online content to be easily accessible from handheld devices, and the Marina website is no exception. Students accessing the current Marina website are met with difficulties navigating the menus and reading the text, among other issues.  
 
 
 Product/Solution Overview
 
-The Armstrong MATLAB Marina mobile website will be able to provide students with the content of the mother website with a touch of their fingers. In a more efficient and better designed website, students will be able to find the information they need with ease.
+The Marina website will be redesigned to make it responsive to varying screen sizes. The new website will offer one unified experience between large- and small-screen devices, granting students access to the content on their terms.
 
-The product is being designed for the students that use their phone more than a laptop and students that need information on the go.
+The new website will feature a simplified navigation menu, which can be toggled in and out of view on mobile devices where screen width is restricted. It will also scale content to appear appropriately sized on smaller screens. The redesigned layout of each page will ensure that critical content remains at the fore when screen size is limited, while non-critical content will be hidden or pushed to the bottom of the document. 
 
-A full website makeover is planned to be added in the next version of the mobile website. This new desktop website would be directly linked to the mobile website, being that the CSS of the page will be different based on the size of the screen. With this implementation, another version can be made to be compatible with the rise in popularity of the tablet.
-
-
+ 
 Scope & Limitations
 
-The initial version of the mobile site will mainly focus on being able to provide students with easy access to the information on the website. The mobile site is not meant to have any new content. A replacement of the main website will only occur if the mobile site is completed in extrodinary time.
+The content of the website will remain as it is. The layout of the content and the navigation system will be modified to create a responsive experience. 
 
 
 Accessibility
 
-The mobile site is meant to be compatiable with all mobile devices and any browser. Javascript will be kept to a minimum to avoid conflicts between browsers.
+The website will be accessible from all modern mobile and desktop/laptop web browsers. 
 
-
-Backend
-
-Very little work will be done in the backend of the website besides the basic construction of the website.
