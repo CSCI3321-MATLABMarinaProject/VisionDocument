@@ -1,31 +1,21 @@
-MATLAB Marina Mobile Website Vision Document
-Author: Peter Drinovac
-Date: September 1, 2015
-
+MATLAB Marina Mobile Redesign
+Team
+Erik Leon
+Peter Drinovac
+Tyler Rutland
+Jeremy Brown
 
 Introduction
-
-The Armstrong MATLAB Marina website serves as an online resource for students taking Engineering courses that require the use of MATLAB programming language and associated software. It introduces basic to advanced programming concepts for engineering students, offering video tutorials, example programs, and exercises. The Marina Mobile Redesign Project aims to improve the experience of students accessing Marina on a handheld mobile device (smartphone or tablet).
-
-
-Business Needs/Requirements
-
-The current MATLAB Marina website is difficult to navigate on smartphones and tablets, as it was designed without these different media in mind. The use of handheld mobile devices to access online content has eclipsed the use of large-screened devices like laptops and desktop computers, prompting the need for online content to be easily accessible from handheld devices, and the Marina website is no exception. Students accessing the current Marina website are met with difficulties navigating the menus and reading the text, among other issues.  
-
-
+The MATLAB Marina (MM) website serves as an online resource for students taking Engineering courses that require the use of the MATLAB programming language and associated software. It covers basic to advanced programming concepts for engineering students, offering video tutorials, example programs, and exercises. The (MM) Mobile Redesign Project aims to improve the experience of students accessing (MM) on handheld mobile devices (smartphones and tablets).
+Needs and Requirements
+The current (MM) website is difficult to navigate on smartphones and tablets, as it was designed without these different media in mind. The use of such handheld mobile devices to access online content has eclipsed the use of large-screened devices like laptops and desktop computers, prompting the need for online content to be easily accessible from handheld devices. The (MM) website is no exception. Students accessing the current (MM) website on mobile devices are met with difficulties navigating the menus and reading the text, among other issues.  
 Product/Solution Overview
-
-The Marina website will be redesigned to make it responsive to varying screen sizes. The new website will offer one unified experience between large- and small-screen devices, granting students access to the content on their terms.
-
-The new website will feature a simplified navigation menu, which can be toggled in and out of view on mobile devices where screen width is restricted. It will also scale content to appear appropriately sized on smaller screens. The redesigned layout of each page will ensure that critical content remains at the fore when screen size is limited, while non-critical content will be hidden or pushed to the bottom of the document. 
-
- 
+The (MM) website will be redesigned to make it responsive to varying screen sizes, that is, the layout of the content will adjust based on the screen size of the accessing medium. The new website will offer one unified experience between large- and small-screen devices, granting students convenient access to the content.
+Features
+New navigation - The new website will feature a simplified navigation menu, which can be toggled in and out of view on mobile devices where screen width is restricted. 
+Scaling – The redesigned site will scale content to appear appropriately sized on smaller screens. 
+Prioritizing content - The redesigned layout of each page will ensure that critical content remains at the fore when screen size is limited, while non-critical content will be hidden or pushed to the bottom of the page. Non-critical content would include the search function (would be integrated into the navigation), the relevant links sidebar, and the updates/blog sidebar. 
 Scope & Limitations
-
-The content of the website will remain as it is. The layout of the content and the navigation system will be modified to create a responsive experience. 
-
-
+The content of the website will remain as is. The new site will be maintainable by current methods, and will not introduce an interface for managing content. Steps will be taken to ensure that future content will be easily integrated into the redesigned site. 
 Accessibility
-
-The website will be accessible from all modern mobile and desktop/laptop web browsers. 
-
+The website will be accessible from all modern mobile and desktop/laptop web browsers (Internet Explorer 9 or better, Safari 5.1 or better, and current versions of Google Chrome, Mozilla Firefox, and Opera).
